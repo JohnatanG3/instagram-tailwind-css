@@ -2,6 +2,10 @@
 
 Este repositório contém o código da tela inicial de login do Instagram, estilizada com Tailwind CSS. A página é responsiva e apresenta um layout moderno e funcional, inspirado na interface do Instagram.
 
+## Imagem do Projeto
+
+![](https://i.ibb.co/ypDyLCV/Sem-t-tulo-3.png)
+
 ## Descrição
 
 A tela de login é dividida em duas seções principais em telas médias e grandes, e uma única coluna em telas pequenas. Os componentes principais incluem:
